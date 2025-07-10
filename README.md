@@ -1,3 +1,8 @@
+Checkout
+
+<img width="1604" height="643" alt="image" src="https://github.com/user-attachments/assets/042ece16-4122-4fc6-bd7b-e38f2908d53e" />
+
+
 Photos of my schematic / rendered PCB
 
 <img width="1189" alt="image" src="https://github.com/user-attachments/assets/2ffbf337-9e74-4e1a-8f49-8c6aef0a0cbb" />
