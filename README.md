@@ -1,4 +1,4 @@
-#Photos of my schematic / rendered PCB
+Photos of my schematic / rendered PCB
 
 <img width="1189" alt="image" src="https://github.com/user-attachments/assets/2ffbf337-9e74-4e1a-8f49-8c6aef0a0cbb" />
 
